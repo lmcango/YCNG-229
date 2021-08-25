@@ -1,0 +1,42 @@
+data displace leave customer premises
+data displace lead customer premises
+information displace lead customer premises
+information displace lead client premises
+information displace lead client premiss
+data has to remain in customer premises
+information has to remain in customer premises
+information has to remain in client premises
+information has to remain in client premiss
+It is not let to export the data
+It is not let to exportation the data
+It is not let to exportation the information
+export data should be first be encrypted
+export data   be first be encrypted
+export data   be first be write in code
+export information   be first be write in code
+export data should be encrypted at rest and in transit
+export data   be encrypted at rest and in transit
+export data   be write in code at rest and in transit
+export information   be write in code at rest and in transit
+export information   be write in code at remainder and in transit
+export information   be write in code at remainder and in theodolite
+It is let to export encrypted data outisde on the customer premises
+It is let to export write in code data outisde on the customer premises
+It is let to exportation write in code data outisde on the customer premises
+It is let to exportation write in code information outisde on the customer premises
+It is let to exportation write in code information outisde on the client premises
+It is let to exportation write in code information outisde on the client premiss
+All data has to be lay in in the same country as the operator network
+All information has to be lay in in the same country as the operator network
+All information has to be lay in in the same nation as the operator network
+All information has to be lay in in the same nation as the manipulator network
+All information has to be lay in in the same nation as the manipulator meshing
+data displace be stored in Ericsson premises but not in public cloud
+data displace be lay in in Ericsson premises but not in public cloud
+information displace be lay in in Ericsson premises but not in public cloud
+information displace be lay in in Ericsson premiss but not in public cloud
+information displace be lay in in Ericsson premiss but not in public fog
+data cannot be stored in public cloud
+data cannot be lay in in public cloud
+information cannot be lay in in public cloud
+information cannot be lay in in public fog

@@ -1,0 +1,16 @@
+data can leave customer premises
+data has to stay in customer premises
+It is not allowed to export the data
+exported data should be first be encrypted
+exported data should be encrypted at rest and in transit
+It is allowed to export encrypted data outisde on the customer premises
+All data has to be stored in the same country as the operator network
+data can be stored in Ericsson premises but not in public cloud
+data cannot be stored in public cloud
+the customer wants its data to stay in its premises
+customer allows data to be exported
+customer data should be secured at rest 
+customer data should be secured in transit
+customer data should be secured at rest and in transit
+Permission should be authorized by the customer before using it
+Data must be regularyl backed up 
